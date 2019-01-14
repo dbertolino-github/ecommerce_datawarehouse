@@ -85,6 +85,18 @@ CREATE TABLE "OLTP".OLTP_PRODUCTS
     PRODUCT_HEIGHT_CM SMALLINT,
     PRODUCT_WIDTH_CM SMALLINT
 );
+
+--------------------------------------------------------
+-- Table "OLTP".OLTP_SELLERS
+--------------------------------------------------------
+CREATE TABLE "OLTP".OLTP_SELLERS
+(
+    SELLER_ID VARCHAR(50),
+    SELLER_ZIPCODE VARCHAR(5),
+    SELLER_CITY VARCHAR(50), 
+    SELLER_STATE VARCHAR(5)
+);
+
 --------------------------------------------------------
 -- Table "OLTP".OLTP_CATEGORIES_TRANSLATION
 --------------------------------------------------------
