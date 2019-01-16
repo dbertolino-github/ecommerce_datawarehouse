@@ -1,6 +1,12 @@
 --------------------------------------------------------
 -- Table "OLTP".OLTP_CUSTOMERS
 --------------------------------------------------------
+CREATE SCHEMA "OLTP";
+SET SCHEMA 'OLTP';
+
+--------------------------------------------------------
+-- Table "OLTP".OLTP_CUSTOMERS
+--------------------------------------------------------
 CREATE TABLE "OLTP".OLTP_CUSTOMERS
 (    
     CUSTOMER_ID VARCHAR(50), 
