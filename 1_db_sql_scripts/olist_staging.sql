@@ -1,8 +1,8 @@
 --------------------------------------------------------
--- Schema DWHS
+-- Schema STAGING
 --------------------------------------------------------
-CREATE SCHEMA "DWHS";
-SET SCHEMA 'DWHS';
+CREATE SCHEMA "STAGING";
+SET SCHEMA 'STAGING';
 
 --------------------------------------------------------
 -- Table "STAGING".DWHS_D_CUSTOMERS
