@@ -1,5 +1,5 @@
 --------------------------------------------------------
--- Table "OLTP".OLTP_CUSTOMERS
+-- Schema OLTP
 --------------------------------------------------------
 CREATE SCHEMA "OLTP";
 SET SCHEMA 'OLTP';
