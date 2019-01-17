@@ -8,5 +8,6 @@ Repository to store files and productions from a datawarehouse project on e-comm
   * To re-create a local db, copy the sql scripts text directly from the web page instead of download the files, because Downloading the files and load them through pgAdmin could cause "sintax error" problems.
 
 **1_ETL_TALEND folder contains:**
-* OLIST_ETL_v1.0 - job to populate the OLTP schema with data from csv files.
+* OLIST_ETL_v1.0 - first job to populate the OLTP schema with data from csv files.
 * OLIST_ETL_v1.1 - bug fixed on v1.0, the process rejected some null values that must be stored in the OLTP schema.
+* OLIST_ETL_v1.2 - error files destination moved into the project folder
