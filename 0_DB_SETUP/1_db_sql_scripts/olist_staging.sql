@@ -20,7 +20,7 @@ CREATE TABLE "STAGING".DWHS_D_CUSTOMERS
 --------------------------------------------------------
 -- Table "STAGING".DWHS_D_PAYMENTS
 --------------------------------------------------------
-CREATE TABLE "STAGING".DWHS_D_PAYMENTS
+CREATE TABLE "STAGING".DWHS_D_ORDER_PAYMENTS
 (    
     PAYMENT_ID VARCHAR(50), 
     PAYMENT_SEQUENTIAL SMALLINT, 
