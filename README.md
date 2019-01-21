@@ -11,3 +11,4 @@ Repository to store files and productions from a datawarehouse project on e-comm
 * OLIST_ETL_v1.0 - first job to populate the OLTP schema with data from csv files.
 * OLIST_ETL_v1.1 - bug fixed on v1.0, the process rejected some null values that must be stored in the OLTP schema.
 * OLIST_ETL_v1.2 - error files destination moved into the project folder
+* OLIST_ETL_v2.0 - Jobs to load dimensions from OLTP to DWHS completed
