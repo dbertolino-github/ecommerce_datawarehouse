@@ -13,3 +13,4 @@ Repository to store files and productions from a datawarehouse project on e-comm
 * OLIST_ETL_v1.2 - error files destination moved into the project folder
 * OLIST_ETL_v2.0 - Jobs to load dimensions from OLTP to DWHS completed
 * OLIST_ETL_v2.0 - Jobs to load dimensions from OLTP to DWHS modified added null and unique rows checking.
+* OLIST_ETL_v2.0 - Final version with orders fact table bug to be fixed 
