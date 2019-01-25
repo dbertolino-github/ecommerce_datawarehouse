@@ -14,4 +14,7 @@ Repository to store files and productions from a datawarehouse project on e-comm
 * OLIST_ETL_v2.0 - Jobs to load dimensions from OLTP to DWHS completed
 * OLIST_ETL_v2.0 - Jobs to load dimensions from OLTP to DWHS modified added null and unique rows checking.
 * OLIST_ETL_v3.0 - Final version with orders fact table bug to be fixed 
-* OLIST_ETL_v3.1 - Final version bug fixed and MASTER JOBS created 
+* OLIST_ETL_v3.1 - Final version bug fixed and MASTER JOBS created
+
+**2_BI_MODEL_TABLEAU folder contains:**
+* OLIST_data_visualization_v1.0 - Dimensional data imported into Tableau worksheet.
