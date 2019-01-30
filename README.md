@@ -21,5 +21,6 @@ Repository to store files and productions from a datawarehouse project on e-comm
 **2_BI_MODEL_TABLEAU folder contains:**
 * OLIST_data_visualization_v1.0 - Dimensional data imported into Tableau worksheet.
 * OLIST_data_visualization_v1.1 - User-friendly names defined for dimensions and measures
-* OLIST_data_visualization_v1.2 - Min requirements of sheet satisfied
+* OLIST_data_visualization_v1.2 - First test Sheets implemented
+* OLIST_data_visualization_v1.3 - Min requirements satisfied (missing dashboards)
 
