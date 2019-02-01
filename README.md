@@ -26,3 +26,5 @@ Repository to store files and productions from a datawarehouse project on e-comm
 * OLIST_data_visualization_v1.4 - Time and Sellers Dashboards added
 * OLIST_data_visualization_v1.5 - Customers and Products Dashboards added
 * OLIST_data_visualization_v1.5 - Payments Dashboard addded
+* OLIST_data_visualization_v2.0 - Final version of Data Visualization
+
