@@ -23,4 +23,6 @@ Repository to store files and productions from a datawarehouse project on e-comm
 * OLIST_data_visualization_v1.1 - User-friendly names defined for dimensions and measures
 * OLIST_data_visualization_v1.2 - First test Sheets implemented
 * OLIST_data_visualization_v1.3 - Min requirements satisfied (missing dashboards)
+* OLIST_data_visualization_v1.4 - Time and Sellers Dashboards added
+* OLIST_data_visualization_v1.5 - Customers and Products Dashboards added
 
