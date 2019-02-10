@@ -1,6 +1,8 @@
 # olist_ecommerce examplained
 Repository to store files and productions from a datawarehouse project on e-commerce dataset
 
+![A test image](screenshots/customers_dashboard.png)
+
 # Info
 **0_DB_SETUP folder contains:**
 * 0_olist_csv_dataset - all OLIST public dataset files in csv format, togheter with a script python that shows statistics about those csv files thanks to pandas libraries.  
