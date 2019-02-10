@@ -2,6 +2,9 @@
 Repository to store files and productions from a datawarehouse project on e-commerce dataset
 
 ![A test image](screenshots/customers_dashboard.png)
+![A test image](screenshots/temporal_dashboard.png)
+![A test image](screenshots/products_dashboard.png)
+![A test image](screenshots/payments_analysis.png)
 
 # Info
 **0_DB_SETUP folder contains:**
