@@ -6,6 +6,7 @@ https://www.kaggle.com/olistbr/brazilian-ecommerce
 
 Talend Open Studio and Tableau were used to develop this project,
 here some final dashboards screenshots:
+
 "Customers dashboard"
 ![A test image](screenshots/customers_dashboard.png)
 
