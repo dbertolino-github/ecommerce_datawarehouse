@@ -1,9 +1,21 @@
 # olist_ecommerce examplained
-Repository to store files and productions from a datawarehouse project on e-commerce dataset
+This repo contains an accademic datawarehouse project developed to test our skills in ETL processes and Data Visualization.
+The choosen dataset is a public one from the Kaggle website and it contains orders data from the Olist Brazilian e-commerce.
 
+https://www.kaggle.com/olistbr/brazilian-ecommerce
+
+Talend Open Studio and Tableau were used to develop this project,
+here some final dashboards screenshots:
+"Customers dashboard"
 ![A test image](screenshots/customers_dashboard.png)
+
+"Temporal Dashboard"
 ![A test image](screenshots/temporal_dashboard.png)
+
+"Products Dashboard"
 ![A test image](screenshots/products_dashboard.png)
+
+"Payments analysis"
 ![A test image](screenshots/payments_analysis.png)
 
 # Info
