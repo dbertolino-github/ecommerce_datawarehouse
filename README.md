@@ -1,4 +1,4 @@
-# olist_ecommerce examplained
+# olist_ecommerce explained
 This repo contains an academic datawarehouse project developed to test our skills in ETL processes and Data Visualization.
 The choosen dataset is a public one from the Kaggle website and it contains orders data from the Olist Brazilian e-commerce.
 
